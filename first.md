@@ -10,8 +10,8 @@
 
 `code`
 
-```code```
+```$ sudo rm -rf /```
 
-table | table | table
+table1 | table2 | table3
 --- | --- | ---
-col | col | col
+col1 | col2 | col3

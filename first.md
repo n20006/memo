@@ -8,7 +8,7 @@
 
 ##### headding 5
 
-`code`
+`code print('Hello world')`
 
 ```$ sudo rm -rf /```
 

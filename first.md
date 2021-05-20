@@ -1,17 +1,23 @@
-# headding 1
+# markdown
 
-## headding 2
+## list
 
-### headding 3
+### Type1
 
-#### headding 4
+1. Apple
+    - Pie
+    - Juice
+1. Orange
+1. Pear
 
-##### headding 5
+### Type2
 
-`print('Hello world')`
+- Apple
+- Orange
+- Peach
 
-```$ sudo rm -rf /```
+## Link & Image
 
-table1 | table2 | table3
---- | --- | ---
-col1 | col2 | col3
+[Omas Teach](https://github.com/omas-public)
+
+![]()
